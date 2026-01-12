@@ -24,6 +24,8 @@ two collum brick and three base brick.
 
 ## What This Could Be
 [Your best guess - playground equipment?]
+Picture frame
 
 ## Questions I Have
 [What don't you know yet?]
+It's not enough purple brick, so this might be best built
