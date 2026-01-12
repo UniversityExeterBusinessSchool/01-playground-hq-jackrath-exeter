@@ -1,4 +1,4 @@
-# My Structure - Student XX
+# My Structure - Student 06
 
 ## What I See in My Data
 [Describe the codes, letters, numbers]
@@ -29,5 +29,6 @@ Picture frame
 ## Questions I Have
 [What don't you know yet?]
 It's not enough purple brick, so this might be best built!
-[S__11698198](https://github.com/user-attachments/assets/d457c38f-de0d-4cee-876e-7eb62de44ea7)
+![S__11698198](https://github.com/user-attachments/assets/bd1f4991-1d9d-4c21-9dd6-d4fba4c83904)
+
 
