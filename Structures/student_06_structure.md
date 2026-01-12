@@ -28,4 +28,6 @@ Picture frame
 
 ## Questions I Have
 [What don't you know yet?]
-It's not enough purple brick, so this might be best built
+It's not enough purple brick, so this might be best built!
+[S__11698198](https://github.com/user-attachments/assets/d457c38f-de0d-4cee-876e-7eb62de44ea7)
+
